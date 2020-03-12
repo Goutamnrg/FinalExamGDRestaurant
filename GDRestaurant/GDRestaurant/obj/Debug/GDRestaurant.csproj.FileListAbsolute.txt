@@ -1,0 +1,10 @@
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\bin\Debug\GDRestaurant.exe.config
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\bin\Debug\GDRestaurant.exe
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\bin\Debug\GDRestaurant.pdb
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.csprojAssemblyReference.cache
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.Form1.resources
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.Properties.Resources.resources
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.csproj.GenerateResource.cache
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.csproj.CoreCompileInputs.cache
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.exe
+C:\GoutamDasC#\GDRestaurant\GDRestaurant\GDRestaurant\obj\Debug\GDRestaurant.pdb
